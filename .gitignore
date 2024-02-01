@@ -1,2 +1,6 @@
-# .gitignore
-README.md
+# .gitignorexx
+.DS_Store
+.ipynb_checkpoints
+
+
+
